@@ -14,4 +14,24 @@ p {
 } 
 
 
+body {
+    background-color: #1c1c1c; /* Dark background color */
+    background-image: url("https://www.gov.br/prf/pt-br/noticias_anteriores/noticias-2020/dezembro/nota-de-pesar/nota-de-pesar.jpg"); /* Replace with your QSMP background image */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #edf7d6ce; /* Text color for better visibility */
+  }
 
+  p {
+    color: white;
+    text-align: center;
+  }
+
+  li {
+    color: white;
+
+  }
+
+  
