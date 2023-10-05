@@ -36,6 +36,7 @@ body {
 
   .centralizar {
     text-align: center;
+   
   }
 
   .lista1{
@@ -50,4 +51,11 @@ body {
     font-weight: 700;
   }
 
-  
+  .gold{
+    color: gold;
+  }  
+
+img{
+  width: 30%;
+}
+

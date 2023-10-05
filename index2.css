@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    color: black;
+}
+
+body {
+    background-color: #1c1c1c; /* Dark background color */
+    background-image: url("https://fenaprf.org.br/novo/wp-content/uploads/2021/12/formatura_prf_peterson_paul_governo_sc.jpg"); /* Replace with your QSMP background image */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #edf7d6ce; /* Text color for better visibility */
+  }
+
+  nav a {
+    text-transform: uppercase;
+    color: black;
+    font-size: larger;
+    text-decoration: none;
+    font-weight: 700;
+  }
+
+  p{
+    font-size: 30px;
+    color: black;
+  }
+
+  h2{
+    color: black;
+    font-size: 30px;
+  }
+
+  img{
+    width: 20%;
+  }
+
+  .alfa{
+    width: 50%;
+  }
+
+  li{
+    color: black;
+  }
