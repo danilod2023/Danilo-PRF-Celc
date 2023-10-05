@@ -34,4 +34,20 @@ body {
 
   }
 
+  .centralizar {
+    text-align: center;
+  }
+
+  .lista1{
+    text-align: left;
+  }
+  
+  nav a {
+    text-transform: uppercase;
+    color: azure;
+    font-size: larger;
+    text-decoration: none;
+    font-weight: 700;
+  }
+
   
