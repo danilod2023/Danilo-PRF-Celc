@@ -1,12 +1,14 @@
 h1 {
     text-align: center;
-    background-color: blue;
-    color: gold;
+  color: gold;
+  font-size: 40px;
+  background-color: blue;
 }
  
 p {
-    text-align: center;
+   color: white;
     font-size: larger;
+  text-align: center;
 }
 
 .coesp {
@@ -21,13 +23,10 @@ body {
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
-    color: #edf7d6ce; /* Text color for better visibility */
+    color: #edf7d6ce; /* Text color for better visibility */  
+
   }
 
-  p {
-    color: white;
-    text-align: center;
-  }
 
   li {
     color: white;
@@ -49,13 +48,18 @@ body {
     font-size: larger;
     text-decoration: none;
     font-weight: 700;
+    border-style: solid;
   }
 
   .gold{
     color: gold;
+    font-size: 40px;
   }  
 
 img{
   width: 30%;
 }
+
+
+
 
