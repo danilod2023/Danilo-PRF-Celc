@@ -20,7 +20,7 @@ p {
 
 body {
     background-color: #1c1c1c; /* Dark background color */
-    background-image: url("https://tribunasf.com.br/wp-content/uploads/2023/06/29acec17-0064-4fde-9069-598a911abaa9.jpeg"); /* Replace with your QSMP background image */
+    background-image:linear-gradient(rgb(0,0,0,0.7), rgb(0,0,0,0) ), url("https://tribunasf.com.br/wp-content/uploads/2023/06/29acec17-0064-4fde-9069-598a911abaa9.jpeg"); /* Replace with your QSMP background image */
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -32,7 +32,7 @@ body {
 
   li {
     color: white;
-
+    font-size: larger;
   }
 
   .centralizar {
